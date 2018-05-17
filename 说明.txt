@@ -1,0 +1,7 @@
+cutseq_v2.pl: 取正向坐标
+
+cutseq_convert.pl：正向坐标及其后200bp，反向坐标及其前200bp并取互补序列
+
+cutseq_convert.multi.v2.pl：多个基因组，id与坐标之间以制表符隔开；
+
+cutseq_convert.multi.v3.pl：多个基因组，id与坐标之间以连字符隔开；
